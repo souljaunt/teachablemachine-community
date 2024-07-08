@@ -24,7 +24,7 @@ This repository contains two components of [Teachable Machine](https://teachable
 
 ### How can I send feedback or get in contact with you?
 
-You have a few options:
+You have a couple of options:
 
 - Share your projects using [#teachablemachine](https://twitter.com/hashtag/teachablemachine) on Twitter or on the [Experiments with Google](https://experiments.withgoogle.com/submit) page.
 - Open an issue in this repository.
